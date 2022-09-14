@@ -1,4 +1,4 @@
-# Hi, i'm Angemydelson SUperdel Saint-Bert
+# Hi, i'm Angemydelson Saint-Bert
  <div align="center">
   <a href="https://github.com/angemydelson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angemydelson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
