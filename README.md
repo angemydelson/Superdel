@@ -11,7 +11,7 @@
   <img align="center" alt="Angemy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Angemy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Angemy-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Angemy-pic" height="200" style="border-radius:1024px;" src="https://scontent.fsqx2-1.fna.fbcdn.net/v/t39.30808-6/298421572_789914852454312_2933988228916516332_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGqCFYvAAuncHTww_9yoroDEbbPbH9H_yQRts9sf0f_JBJt2400YbL0r37Abb8XNAJIbMiKTZvitTwjGcuPIxOf&_nc_ohc=Yi80YXFtSdAAX98Gj2w&_nc_ht=scontent.fsqx2-1.fna&oh=00_AT_kmiXIbOqAJ13veAoR6GhAN-4pxJuyNfnX7SWPtEw3Cg&oe=631ABBD6">
+  # <img align="right" alt="Angemy-pic" height="200" style="border-radius:1024px;" src="https://scontent.fsqx2-1.fna.fbcdn.net/v/t39.30808-6/298421572_789914852454312_2933988228916516332_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGqCFYvAAuncHTww_9yoroDEbbPbH9H_yQRts9sf0f_JBJt2400YbL0r37Abb8XNAJIbMiKTZvitTwjGcuPIxOf&_nc_ohc=Yi80YXFtSdAAX98Gj2w&_nc_ht=scontent.fsqx2-1.fna&oh=00_AT_kmiXIbOqAJ13veAoR6GhAN-4pxJuyNfnX7SWPtEw3Cg&oe=631ABBD6">
 </div>
   
   ##
